@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/websocket"
-	"github.com/holdno/firetower/service/gateway"
+	"github.com/OSMeteor/firetower/service/gateway"
 	"github.com/holdno/snowFlakeByGo"
 	json "github.com/json-iterator/go"
 )
